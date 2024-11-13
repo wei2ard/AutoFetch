@@ -196,5 +196,14 @@
       "num":1,
       "type":".bin",
       "dir":0
+    },
+    {
+      "user":"HamletDuFromage",
+      "repo":"switch-cheats-db",
+      "filename":"NX-60FPS-RES-GFX-Cheats",
+      "asset_id":0,
+      "num":0,
+      "type":".zip",
+      "dir":0
     }
 ]
