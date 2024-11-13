@@ -45,7 +45,10 @@ function Fetch() {
     fi
 
     if [[ "${dir}" != 0 ]]; then
-      mkdir -p ${dir}
+      if [ ! -d "${dir}" ]; then
+        mkdir -p "${dir}"
+        #echo -e " make dir ${dir}"
+      fi
       mv ${file}${type} ${dir}
       zip -rq "${file}.zip" ${dir}
       rm -rf ${dir}
