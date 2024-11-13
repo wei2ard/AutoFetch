@@ -52,7 +52,7 @@ function Fetch() {
       mv ${file}${type} ${dir}
       zip -rq "${file}.zip" ${dir}
       rm -rf ${dir}
-      echo -e " ${file}${type}.zip"
+      echo -e " ${file}.zip"
     else
       echo -e "${GREEN} ${file}${type} ${RESET}"
     fi
