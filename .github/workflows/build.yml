@@ -33,6 +33,7 @@ jobs:
           tag_name: 'latest'
           files: |
             AIO.zip
+            AIO-pre.zip
             Arcane.zip
             Arcane-pre.zip
             EdiZon-Overlay.zip
