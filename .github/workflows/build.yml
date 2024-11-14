@@ -15,7 +15,9 @@ jobs:
   Build:
     name: "Release"
     runs-on: "ubuntu-latest"
-
+    defaults:
+      run:
+        shell: bash
     steps:
       - uses: actions/checkout@master
       - name: 'Build'
@@ -45,9 +47,7 @@ jobs:
             pkgs-Magic.zip
             pkgs-Settings-pre.zip
             pkgs-Settings.zip
-            pkgs-Guides-pre.zip
             pkgs-Guides.zip
-            pkgs-R2Config-pre.zip
             pkgs-R2Config.zip
             pkgs-Updater-pre.zip
             pkgs-Updater.zip

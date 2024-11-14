@@ -3,7 +3,7 @@
       "user":"WE1ZARD",
       "repo":"wiliwili",
       "filename":"wiliwili",
-      "asset_id":0,
+      "pre":0,
       "num":0,
       "type":".zip",
       "dir":0
@@ -12,7 +12,7 @@
       "user":"WE1ZARD",
       "repo":"AIO",
       "filename":"AIO",
-      "asset_id":0,
+      "pre":0,
       "num":0,
       "type":".zip",
       "dir":0
@@ -21,7 +21,7 @@
       "user":"WE1ZARD",
       "repo":"JKSV-webDAV",
       "filename":"JKSV",
-      "asset_id":0,
+      "pre":0,
       "num":0,
       "type":".zip",
       "dir":0
@@ -30,7 +30,7 @@
       "user":"WE1ZARD",
       "repo":"ldn_mitm",
       "filename":"ldn_mitm",
-      "asset_id":0,
+      "pre":0,
       "num":0,
       "type":".zip",
       "dir":0
@@ -39,7 +39,7 @@
       "user":"WE1ZARD",
       "repo":"oc-tester",
       "filename":"oc-tester",
-      "asset_id":0,
+      "pre":0,
       "num":0,
       "type":".zip",
       "dir":0
@@ -48,7 +48,7 @@
       "user":"WE1ZARD",
       "repo":"oc-tester",
       "filename":"oc-testing-save",
-      "asset_id":0,
+      "pre":0,
       "num":1,
       "type":".zip",
       "dir":0
@@ -57,7 +57,7 @@
       "user":"WE1ZARD",
       "repo":"nx-hbmenu",
       "filename":"hbmenu",
-      "asset_id":0,
+      "pre":0,
       "num":1,
       "type":".nsp",
       "dir":0
@@ -66,7 +66,7 @@
       "user":"WE1ZARD",
       "repo":"arcane",
       "filename":"Arcane",
-      "asset_id":205647660,
+      "pre":1,
       "num":0,
       "type":".zip",
       "dir":0
@@ -75,7 +75,7 @@
       "user":"WE1ZARD",
       "repo":"EdiZon-Overlay",
       "filename":"EdiZon-Overlay",
-      "asset_id":0,
+      "pre":0,
       "num":0,
       "type":".zip",
       "dir":0
@@ -84,7 +84,7 @@
       "user":"WE1ZARD",
       "repo":"FanControl",
       "filename":"FanControl",
-      "asset_id":205665473,
+      "pre":1,
       "num":0,
       "type":".zip",
       "dir":0
@@ -93,7 +93,7 @@
       "user":"WE1ZARD",
       "repo":"FPSLocker",
       "filename":"FPSLocker",
-      "asset_id":205655842,
+      "pre":1,
       "num":0,
       "type":".zip",
       "dir":0
@@ -102,7 +102,7 @@
       "user":"WE1ZARD",
       "repo":"ReverseNX-RT",
       "filename":"ReverseNX-RT",
-      "asset_id":0,
+      "pre":0,
       "num":0,
       "type":".zip",
       "dir":0
@@ -111,7 +111,7 @@
       "user":"WE1ZARD",
       "repo":"Status-Monitor-Overlay",
       "filename":"Status-Monitor-Overlay",
-      "asset_id":205661312,
+      "pre":1,
       "num":0,
       "type":".zip",
       "dir":0
@@ -120,7 +120,7 @@
       "user":"WE1ZARD",
       "repo":"sys-clk-oc",
       "filename":"sys-clk-oc",
-      "asset_id":205663723,
+      "pre":1,
       "num":0,
       "type":".zip",
       "dir":0
@@ -129,7 +129,7 @@
       "user":"WE1ZARD",
       "repo":"Magic",
       "filename":"pkgs-Magic",
-      "asset_id":205576041,
+      "pre":1,
       "num":0,
       "type":".zip",
       "dir":0
@@ -138,7 +138,7 @@
       "user":"WE1ZARD",
       "repo":"Settings",
       "filename":"pkgs-Settings",
-      "asset_id":205653977,
+      "pre":1,
       "num":0,
       "type":".zip",
       "dir":0
@@ -147,7 +147,7 @@
       "user":"WE1ZARD",
       "repo":"Guides",
       "filename":"pkgs-Guides",
-      "asset_id":0,
+      "pre":0,
       "num":0,
       "type":".zip",
       "dir":0
@@ -156,7 +156,7 @@
       "user":"WE1ZARD",
       "repo":"R2Config",
       "filename":"pkgs-R2Config",
-      "asset_id":0,
+      "pre":0,
       "num":0,
       "type":".zip",
       "dir":0
@@ -165,7 +165,7 @@
       "user":"WE1ZARD",
       "repo":"Updater",
       "filename":"pkgs-Updater",
-      "asset_id":205635773,
+      "pre":1,
       "num":0,
       "type":".zip",
       "dir":0
@@ -174,7 +174,7 @@
       "user":"masagrator",
       "repo":"SaltyNX",
       "filename":"SaltyNX",
-      "asset_id":0,
+      "pre":0,
       "num":0,
       "type":".zip",
       "dir":0
@@ -183,7 +183,7 @@
       "user":"dslatt",
       "repo":"nso-icon-tool",
       "filename":"nso-icon-tool",
-      "asset_id":0,
+      "pre":0,
       "num":0,
       "type":".nro",
       "dir":"./switch"
@@ -192,7 +192,7 @@
       "user":"rehius",
       "repo":"usk",
       "filename":"update",
-      "asset_id":0,
+      "pre":0,
       "num":1,
       "type":".bin",
       "dir":0
@@ -201,7 +201,7 @@
       "user":"HamletDuFromage",
       "repo":"switch-cheats-db",
       "filename":"NX-60FPS-RES-GFX-Cheats",
-      "asset_id":0,
+      "pre":0,
       "num":0,
       "type":".zip",
       "dir":0
