@@ -33,7 +33,7 @@ function Fetch() {
     dir=${DIR[$param]}
     
     if [[ ${user} == WE1ZARD ]]; then # release
-        curl -sL -H "Authorization: token $TOKEN" -sL "$API/${user}/${repo}/releases/latest" | jq ".assets" | jq ".[${num}].url" | xargs -I {} curl -sL {} -H "Authorization: token $TOKEN" -H 'Accept:application/octet-stream' -o ${file}${type}
+        curl -sL -H "Authorization: token $TOKEN" -sL "$API/${user}/${repo}/releases/latest" | jq ".assets[${num}].url" | xargs -I {} curl -sL {} -H "Authorization: token $TOKEN" -H 'Accept:application/octet-stream' -o ${file}${type}
         echo -e " ${file}${type}"
         if [[ ${pre} > 0 ]]; then # pre-release 
             curl -sL -H "Authorization: token $TOKEN" -sL "$API/${user}/${repo}/releases" | jq -r '.[] | select(.prerelease).assets[].url' | xargs -I {} curl -sL -H "Accept: application/octet-stream" -H "Authorization: Bearer $TOKEN" {} -o ${file}"-pre"${type}; 

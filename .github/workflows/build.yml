@@ -34,6 +34,7 @@ jobs:
           files: |
             AIO.zip
             Arcane.zip
+            Arcane-pre.zip
             EdiZon-Overlay.zip
             FanControl.zip
             FPSLocker.zip
