@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: "0 8 * * *"
+    - cron: "0 12 * * *"
   workflow_dispatch:
 
 env:
@@ -62,3 +62,4 @@ jobs:
             update.bin
             wiliwili.zip
             NX-60FPS-RES-GFX-Cheats.zip
+            60FPSLocker.zip

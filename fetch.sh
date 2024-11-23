@@ -61,3 +61,9 @@ function Fetch() {
 }
 
 Fetch ${REPO[@]}
+
+# 60FPSLocker
+curl -sL https://github.com/masagrator/FPSLocker-Warehouse/archive/refs/heads/v3.zip -o v3.zip
+unzip -oq v3.zip
+mv ./FPSLocker-Warehouse-3/SaltySD ./
+zip -rq 60FPSLocker.zip ./SaltySD
