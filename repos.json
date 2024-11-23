@@ -198,6 +198,15 @@
       "dir":"./switch"
     },
     {
+      "user":"zdm65477730",
+      "repo":"NX-Activity-Log",
+      "filename":"NX-Activity-Log",
+      "pre":0,
+      "num":0,
+      "type":".nro",
+      "dir":"./switch"
+    },
+    {
       "user":"rehius",
       "repo":"usk",
       "filename":"update",
