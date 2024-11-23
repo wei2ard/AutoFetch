@@ -171,6 +171,15 @@
       "dir":0
     },
     {
+      "user":"WE1ZARD",
+      "repo":"mhr-patches",
+      "filename":"mhr-patches",
+      "pre":0,
+      "num":0,
+      "type":".zip",
+      "dir":0
+    },
+    {
       "user":"masagrator",
       "repo":"SaltyNX",
       "filename":"SaltyNX",
