@@ -207,6 +207,24 @@
       "dir":"./switch"
     },
     {
+      "user":"nadrino",
+      "repo":"SimpleModManager",
+      "filename":"SimpleModManager",
+      "pre":0,
+      "num":0,
+      "type":".nro",
+      "dir":"./switch"
+    },
+    {
+      "user":"PoloNX",
+      "repo":"SimpleModDownloader",
+      "filename":"SimpleModDownloader",
+      "pre":0,
+      "num":0,
+      "type":".nro",
+      "dir":"./switch"
+    },
+    {
       "user":"rehius",
       "repo":"usk",
       "filename":"update",
