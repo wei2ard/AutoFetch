@@ -127,6 +127,15 @@
     },
     {
       "user":"WE1ZARD",
+      "repo":"sys-patch",
+      "filename":"sys-patch",
+      "pre":0,
+      "num":0,
+      "type":".zip",
+      "dir":0
+    },
+    {
+      "user":"WE1ZARD",
       "repo":"Magic",
       "filename":"pkgs-Magic",
       "pre":1,
