@@ -10,24 +10,6 @@
     },
     {
       "user":"WE1ZARD",
-      "repo":"AIO",
-      "filename":"AIO",
-      "pre":1,
-      "num":0,
-      "type":".zip",
-      "dir":0
-    },
-    {
-      "user":"WE1ZARD",
-      "repo":"JKSV-webDAV",
-      "filename":"JKSV",
-      "pre":0,
-      "num":0,
-      "type":".zip",
-      "dir":0
-    },
-    {
-      "user":"WE1ZARD",
       "repo":"ldn_mitm",
       "filename":"ldn_mitm",
       "pre":0,
@@ -64,53 +46,8 @@
     },
     {
       "user":"WE1ZARD",
-      "repo":"arcane",
-      "filename":"Arcane",
-      "pre":1,
-      "num":0,
-      "type":".zip",
-      "dir":0
-    },
-    {
-      "user":"WE1ZARD",
-      "repo":"EdiZon-Overlay",
-      "filename":"EdiZon-Overlay",
-      "pre":0,
-      "num":0,
-      "type":".zip",
-      "dir":0
-    },
-    {
-      "user":"WE1ZARD",
       "repo":"FanControl",
       "filename":"FanControl",
-      "pre":1,
-      "num":0,
-      "type":".zip",
-      "dir":0
-    },
-    {
-      "user":"WE1ZARD",
-      "repo":"FPSLocker",
-      "filename":"FPSLocker",
-      "pre":1,
-      "num":0,
-      "type":".zip",
-      "dir":0
-    },
-    {
-      "user":"WE1ZARD",
-      "repo":"ReverseNX-RT",
-      "filename":"ReverseNX-RT",
-      "pre":0,
-      "num":0,
-      "type":".zip",
-      "dir":0
-    },
-    {
-      "user":"WE1ZARD",
-      "repo":"Status-Monitor-Overlay",
-      "filename":"Status-Monitor-Overlay",
       "pre":1,
       "num":0,
       "type":".zip",
@@ -130,51 +67,6 @@
       "repo":"sys-patch",
       "filename":"sys-patch",
       "pre":0,
-      "num":0,
-      "type":".zip",
-      "dir":0
-    },
-    {
-      "user":"WE1ZARD",
-      "repo":"Magic",
-      "filename":"pkgs-Magic",
-      "pre":1,
-      "num":0,
-      "type":".zip",
-      "dir":0
-    },
-    {
-      "user":"WE1ZARD",
-      "repo":"Settings",
-      "filename":"pkgs-Settings",
-      "pre":1,
-      "num":0,
-      "type":".zip",
-      "dir":0
-    },
-    {
-      "user":"WE1ZARD",
-      "repo":"Guides",
-      "filename":"pkgs-Guides",
-      "pre":0,
-      "num":0,
-      "type":".zip",
-      "dir":0
-    },
-    {
-      "user":"WE1ZARD",
-      "repo":"R2Config",
-      "filename":"pkgs-R2Config",
-      "pre":0,
-      "num":0,
-      "type":".zip",
-      "dir":0
-    },
-    {
-      "user":"WE1ZARD",
-      "repo":"Updater",
-      "filename":"pkgs-Updater",
-      "pre":1,
       "num":0,
       "type":".zip",
       "dir":0
@@ -249,6 +141,15 @@
       "pre":0,
       "num":0,
       "type":".zip",
+      "dir":0
+    },
+    {
+      "user":"zdm65477730",
+      "repo":"hekate",
+      "filename":"nyx",
+      "pre":0,
+      "num":0,
+      "type":".bin",
       "dir":0
     }
 ]

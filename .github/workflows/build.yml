@@ -31,31 +31,13 @@ jobs:
           generate_release_notes: false
           tag_name: 'latest'
           files: |
-            AIO.zip
-            AIO-pre.zip
-            Arcane.zip
-            Arcane-pre.zip
-            EdiZon-Overlay.zip
             FanControl.zip
-            FPSLocker.zip
-            JKSV.zip
             ldn_mitm.zip
             hbmenu.nsp
             nso-icon-tool.zip
             oc-tester.zip
             oc-testing-save.zip             
-            pkgs-Magic-pre.zip
-            pkgs-Magic.zip
-            pkgs-Settings-pre.zip
-            pkgs-Settings.zip
-            pkgs-Guides.zip
-            pkgs-R2Config.zip
-            pkgs-Updater-pre.zip
-            pkgs-Updater.zip
-            ReverseNX-RT.zip
             SaltyNX.zip
-            Status-Monitor-Overlay-pre.zip
-            Status-Monitor-Overlay.zip
             sys-clk-oc-pre.zip
             sys-clk-oc.zip
             sys-patch.zip
@@ -66,3 +48,4 @@ jobs:
             NX-Activity-Log.zip
             SimpleModDownloader.zip
             SimpleModManager.zip
+            nyx.bin
