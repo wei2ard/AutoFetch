@@ -68,3 +68,6 @@ unzip -oq mhr-patches.zip
 unzip -oq v3.zip
 cp -r ./FPSLocker-Warehouse-3/SaltySD ./
 zip -rq 60FPSLocker.zip ./SaltySD
+
+# nyx.bin
+zip -rq nyx.zip ./nyx.bin
