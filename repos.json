@@ -10,15 +10,6 @@
     },
     {
       "user":"WE1ZARD",
-      "repo":"ldn_mitm",
-      "filename":"ldn_mitm",
-      "pre":0,
-      "num":0,
-      "type":".zip",
-      "dir":0
-    },
-    {
-      "user":"WE1ZARD",
       "repo":"oc-tester",
       "filename":"oc-tester",
       "pre":0,
@@ -48,15 +39,6 @@
       "user":"WE1ZARD",
       "repo":"FanControl",
       "filename":"FanControl",
-      "pre":1,
-      "num":0,
-      "type":".zip",
-      "dir":0
-    },
-    {
-      "user":"WE1ZARD",
-      "repo":"sys-clk-oc",
-      "filename":"sys-clk-oc",
       "pre":1,
       "num":0,
       "type":".zip",

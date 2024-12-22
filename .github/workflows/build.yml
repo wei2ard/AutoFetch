@@ -23,7 +23,7 @@ jobs:
         run: |
           chmod +x $BUILD_SH
           ./$BUILD_SH ${{ secrets.TOKEN }}
-      
+
       - name: 'Release'
         uses: softprops/action-gh-release@v2
         with:
