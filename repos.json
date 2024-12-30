@@ -11,7 +11,7 @@
     {
       "user":"WE1ZARD",
       "repo":"oc-tester",
-      "filename":"oc-tester",
+      "filename":"mhr",
       "pre":0,
       "num":0,
       "type":".zip",
@@ -20,9 +20,18 @@
     {
       "user":"WE1ZARD",
       "repo":"oc-tester",
-      "filename":"oc-testing-save",
+      "filename":"oc-tester",
       "pre":0,
       "num":1,
+      "type":".zip",
+      "dir":0
+    },
+    {
+      "user":"WE1ZARD",
+      "repo":"oc-tester",
+      "filename":"oc-testing-save",
+      "pre":0,
+      "num":2,
       "type":".zip",
       "dir":0
     },
@@ -48,15 +57,6 @@
       "user":"WE1ZARD",
       "repo":"sys-patch",
       "filename":"sys-patch",
-      "pre":0,
-      "num":0,
-      "type":".zip",
-      "dir":0
-    },
-    {
-      "user":"WE1ZARD",
-      "repo":"mhr-patches",
-      "filename":"mhr-patches",
       "pre":0,
       "num":0,
       "type":".zip",

@@ -64,10 +64,10 @@ Fetch ${REPO[@]}
 
 # 60FPSLocker
 curl -sL https://github.com/masagrator/FPSLocker-Warehouse/archive/refs/heads/v3.zip -o v3.zip
-unzip -oq mhr-patches.zip
+unzip -oq mhr.zip
 unzip -oq v3.zip
 cp -r ./FPSLocker-Warehouse-3/SaltySD ./
-zip -rq 60FPSLocker.zip ./SaltySD
+zip -rq9 60FPSLocker.zip ./SaltySD
 
 # nyx.bin
-zip -rq nyx.zip ./nyx.bin
+zip -rq9 nyx.zip ./nyx.bin
