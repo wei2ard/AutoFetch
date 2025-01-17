@@ -1,54 +1,9 @@
 [
     {
       "user":"WE1ZARD",
-      "repo":"wiliwili",
-      "filename":"wiliwili",
-      "pre":0,
-      "num":0,
-      "type":".zip",
-      "dir":0
-    },
-    {
-      "user":"WE1ZARD",
       "repo":"oc-tester",
       "filename":"mhr",
       "pre":0,
-      "num":0,
-      "type":".zip",
-      "dir":0
-    },
-    {
-      "user":"WE1ZARD",
-      "repo":"oc-tester",
-      "filename":"oc-tester",
-      "pre":0,
-      "num":1,
-      "type":".zip",
-      "dir":0
-    },
-    {
-      "user":"WE1ZARD",
-      "repo":"oc-tester",
-      "filename":"oc-testing-save",
-      "pre":0,
-      "num":2,
-      "type":".zip",
-      "dir":0
-    },
-    {
-      "user":"WE1ZARD",
-      "repo":"nx-hbmenu",
-      "filename":"hbmenu",
-      "pre":0,
-      "num":1,
-      "type":".nsp",
-      "dir":0
-    },
-    {
-      "user":"WE1ZARD",
-      "repo":"FanControl",
-      "filename":"FanControl",
-      "pre":1,
       "num":0,
       "type":".zip",
       "dir":0
