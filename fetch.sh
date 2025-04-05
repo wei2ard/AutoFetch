@@ -71,3 +71,10 @@ zip -rq9 60FPSLocker.zip ./SaltySD
 
 # nyx.bin
 zip -rq9 nyx.zip ./nyx.bin
+
+# chiaki-ng
+curl -sL "https://api.github.com/repos/streetpea/chiaki-ng/releases" | jq -r 'first(.[] | select(.prerelease).assets[] | select(.name=="chiaki-ng.nro").browser_download_url)' | xargs -I {} curl -sL {} -o chiaki-ng.nro
+mkdir -p ./switch/chiaki
+mv ./chiaki-ng.nro ./switch/chiaki
+zip -rq9 chiaki-ng.zip ./switch
+rm -rf ./switch
