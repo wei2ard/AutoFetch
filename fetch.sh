@@ -70,7 +70,7 @@ cp -r ./FPSLocker-Warehouse-3/SaltySD ./
 zip -rq9 60FPSLocker.zip ./SaltySD
 
 # nyx.bin
-zip -rq9 nyx.zip ./nyx.bin
+#zip -rq9 nyx.zip ./nyx.bin
 
 # chiaki-ng
 curl -sL "https://api.github.com/repos/streetpea/chiaki-ng/releases" | jq -r 'first(.[] | select(.prerelease).assets[] | select(.name=="chiaki-ng.nro").browser_download_url)' | xargs -I {} curl -sL {} -o chiaki-ng.nro
