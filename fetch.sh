@@ -86,6 +86,6 @@ unzip -oq master.zip
 mkdir -p ./switch
 mkdir -p ./themes
 mv ./NXThemesInstaller.nro ./switch
-cp -r ./master/systemPatches ./themes
+cp -r ./theme-patches-master/systemPatches ./themes
 zip -rq9 theme.zip ./switch ./themes
-rm -rf ./themes ./master ./switch ./master.zip
+rm -rf ./themes ./theme-patches-master ./switch ./master.zip
