@@ -78,3 +78,14 @@ mkdir -p ./switch/chiaki
 mv ./chiaki-ng.nro ./switch/chiaki
 zip -rq9 chiaki-ng.zip ./switch
 rm -rf ./switch
+
+## theme patches
+curl -sL https://github.com/exelix11/theme-patches/archive/refs/heads/master.zip -o master.zip
+curl -sL "https://api.github.com/repos/exelix11/SwitchThemeInjector/releases" | jq ".[0].assets" | jq ".[0].browser_download_url" | xargs -I {} curl -sL {} -o NXThemesInstaller.nro
+unzip -oq master.zip
+mkdir -p ./switch
+mkdir -p ./themes
+mv ./NXThemesInstaller.nro ./switch
+cp -r ./master/systemPatches ./themes
+zip -rq9 theme.zip ./switch ./themes
+rm -rf ./themes ./master ./switch ./master.zip
