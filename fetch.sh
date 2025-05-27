@@ -73,11 +73,11 @@ zip -rq9 60FPSLocker.zip ./SaltySD
 #zip -rq9 nyx.zip ./nyx.bin
 
 # chiaki-ng
-curl -sL "https://api.github.com/repos/streetpea/chiaki-ng/releases" | jq -r 'first(.[] | select(.prerelease).assets[] | select(.name=="chiaki-ng.nro").browser_download_url)' | xargs -I {} curl -sL {} -o chiaki-ng.nro
-mkdir -p ./switch/chiaki
-mv ./chiaki-ng.nro ./switch/chiaki
-zip -rq9 chiaki-ng.zip ./switch
-rm -rf ./switch
+# curl -sL "https://api.github.com/repos/streetpea/chiaki-ng/releases" | jq -r 'first(.[] | select(.prerelease).assets[] | select(.name=="chiaki-ng.nro").browser_download_url)' | xargs -I {} curl -sL {} -o chiaki-ng.nro
+# mkdir -p ./switch/chiaki
+# mv ./chiaki-ng.nro ./switch/chiaki
+# zip -rq9 chiaki-ng.zip ./switch
+# rm -rf ./switch
 
 ## theme patches
 curl -sL https://github.com/exelix11/theme-patches/archive/refs/heads/master.zip -o master.zip
