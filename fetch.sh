@@ -50,7 +50,7 @@ function Fetch() {
         echo -e " make dir ${dir}"
       fi
       mv ${file}${type} ${dir}
-      zip -rq "${file}.zip" ${dir}
+      zip -rq9 "${file}.zip" ${dir}
       rm -rf ${dir}
       echo -e " ${file}.zip"
     else
