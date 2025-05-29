@@ -97,5 +97,14 @@
       "num":0,
       "type":".nro",
       "dir":"./switch"
+    },
+    {
+      "user":"XITRIX",
+      "repo":"Moonlight-Switch",
+      "filename":"moonlight",
+      "pre":0,
+      "num":0,
+      "type":".nro",
+      "dir":"./switch"
     }
 ]
