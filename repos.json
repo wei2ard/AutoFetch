@@ -106,5 +106,14 @@
       "num":0,
       "type":".nro",
       "dir":"./switch"
+    },
+    {
+      "user":"kawaii-flesh",
+      "repo":"TraNX",
+      "filename":"TraNX-CS.ovl",
+      "pre":0,
+      "num":0,
+      "type":".ovl",
+      "dir":"./switch/.overlays"
     }
 ]
