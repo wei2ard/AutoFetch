@@ -27,6 +27,15 @@
       "dir":0
     },
     {
+      "user":"masagrator",
+      "repo":"SaltyNX",
+      "filename":"SaltyNX-pre",
+      "pre":1,
+      "num":0,
+      "type":".zip",
+      "dir":0
+    },
+    {
       "user":"dslatt",
       "repo":"nso-icon-tool",
       "filename":"nso-icon-tool",
