@@ -63,10 +63,10 @@ function Fetch() {
 Fetch ${REPO[@]}
 
 # 60FPSLocker
-curl -sL https://github.com/masagrator/FPSLocker-Warehouse/archive/refs/heads/v3.zip -o v3.zip
+curl -sL https://github.com/masagrator/FPSLocker-Warehouse/archive/refs/heads/v3.1.zip -o v3.zip
 unzip -oq mhr.zip
 unzip -oq v3.zip
-cp -r ./FPSLocker-Warehouse-3/SaltySD ./
+cp -r ./FPSLocker-Warehouse-3.1/SaltySD ./
 zip -rq9 60FPSLocker.zip ./SaltySD
 
 # nyx.bin
